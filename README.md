@@ -1,6 +1,6 @@
 # Whisper Fine-tuner
 
-> **Note**: After training, convert your model to transformers.js format using [transformersjs-converter](https://github.com/markusingvarsson/transformersjs-converter)
+> **Note**: After training, convert your model to transformers.js format using [transformersjs-converter](https://github.com/markusingvarsson/transformersjs-whisper-converter)
 
 Fine-tune OpenAI Whisper models on Common Voice datasets.
 
